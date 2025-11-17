@@ -29,7 +29,7 @@
 ### Getting Started:
 ```bash
 # Clone this repository
-git clone <your-repo-url>
+git clone https://github.com/Jack-Manning11/react-tech-tutorial
 cd react-tech-tutorial
 
 # Install all dependencies
